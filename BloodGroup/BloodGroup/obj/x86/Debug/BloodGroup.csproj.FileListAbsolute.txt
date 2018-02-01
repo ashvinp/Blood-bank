@@ -1,0 +1,32 @@
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.mdf
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup_log.ldf
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.exe.config
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.exe
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.pdb
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Add_BloodGroup.resources
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Add_Donor.resources
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Display_Donor_Age_Weight_Gender_Wise.resources
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Display_Donor_BloodGroup_Wise.resources
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Display_Donor_Gender_Wise.resources
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.HomePage.resources
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Properties.Resources.resources
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.exe
+C:\Users\ashwinp\Desktop\Project\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.pdb
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.exe.config
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.exe
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.pdb
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.mdf
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup_log.ldf
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.exe
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\bin\Debug\BloodGroup.pdb
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Add_BloodGroup.resources
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Add_Donor.resources
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Display_Donor_Age_Weight_Gender_Wise.resources
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Display_Donor_BloodGroup_Wise.resources
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Display_Donor_Gender_Wise.resources
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.HomePage.resources
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.Properties.Resources.resources
+G:\System\Software and others(F)\Notes\MCA 5th Sem\Practicals\13MCA57-DotNet Lab\BloodGroup\BloodGroup\BloodGroup\obj\x86\Debug\BloodGroup.csproj.GenerateResource.Cache
